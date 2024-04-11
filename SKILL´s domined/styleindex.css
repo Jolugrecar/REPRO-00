@@ -1,0 +1,39 @@
+@charset "Utf-8"
+
+*{
+    border: 15px;
+    margin: 15px;
+    margin-top: auto;
+    color: #3c26a0;
+}
+body{
+color: whitesmoke;
+background: aquamarine;
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+.Equipe{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid purple;
+    margin: 15px;
+}
+.card-title{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid purple;
+    margin: 15px;
+}
+.card-body{
+
+}
+.card-text{
+
+}
